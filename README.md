@@ -1,2 +1,7 @@
-# test1
-test project
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("hello world");
+return 0;
+}
